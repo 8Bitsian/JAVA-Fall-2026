@@ -1,4 +1,4 @@
-## ☕ Java-Summer-2026
+## ☕ Java-Fall-2026
 
 ℹ️ Coursework and assignments for my Java 2 class, including weekly exercises and project submissions.<br/>
 *️⃣ The course requires that I utilize JetBrains [IntelliJ Idea](https://www.jetbrains.com/idea/) as my IDE.<br/>

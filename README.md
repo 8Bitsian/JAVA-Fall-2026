@@ -42,8 +42,8 @@
 ## 🗃️ Lessons
 > 📂 Below are a list of lesson folders and what they include.</br>
 
-| Part 1 | Part 2 |
-|---|---|
+| Part 1:  | Part 2:  |
+|:---|:---|
 | [![Lesson 1 Badge][L1]](./lesson01/) | [![Lesson 7 Badge][L7]](./lesson07/) |
 | [![Lesson 2 Badge][L2]](./lesson02/) | [![Lesson 8 Badge][L8]](./lesson08/) |
 | [![Lesson 3 Badge][L3]](./lesson03/) | [![Lesson 9 Badge][L9]](./lesson09/) |
@@ -51,51 +51,6 @@
 | [![Lesson 5 Badge][L5]](./lesson05/) | [![Lesson 11 Badge][L11]](./lesson11/) |
 | [![Lesson 6 Badge][L6]](./lesson06/) | [![Final Badge][FIN]](./final/) |
 | [![Midterm Badge][MID]](./midterm/) | |
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-  <div>
-    **Column 1**
-    [![Lesson 1 Badge][L1]](./lesson01/)
-    [![Lesson 2 Badge][L2]](./lesson02/)
-    [![Lesson 3 Badge][L3]](./lesson03/)
-    [![Lesson 4 Badge][L4]](./lesson04/)
-    [![Lesson 5 Badge][L5]](./lesson05/)
-    [![Lesson 6 Badge][L6]](./lesson06/)
-    [![Midterm Badge][MID]](./midterm/)
-  </div>
-  <div>
-    **Column 2**
-    [![Lesson 7 Badge][L7]](./lesson07/)
-    [![Lesson 8 Badge][L8]](./lesson08/)
-    [![Lesson 9 Badge][L9]](./lesson09/)
-    [![Lesson 10 Badge][L10]](./lesson10/)
-    [![Lesson 11 Badge][L11]](./lesson11/)
-    [![Final Badge][FIN]](./final/)
-  </div>
-</div>
-
-
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
-    **Part 1:**
-    [![Lesson 1 Badge][L1]](./lesson01/)
-    [![Lesson 2 Badge][L2]](./lesson02/)
-    [![Lesson 3 Badge][L3]](./lesson03/)
-    [![Lesson 4 Badge][L4]](./lesson04/)
-    [![Lesson 5 Badge][L5]](./lesson05/)
-    [![Lesson 6 Badge][L6]](./lesson06/)
-    [![Midterm Badge][MID]](./midterm/)
-  </div>
-  <div style="flex: 1;">
-    **Part 2**
-    [![Lesson 7 Badge][L7]](./lesson07/)
-    [![Lesson 8 Badge][L8]](./lesson08/)
-    [![Lesson 9 Badge][L9]](./lesson09/)
-    [![Lesson 10 Badge][L10]](./lesson10/)
-    [![Lesson 11 Badge][L11]](./lesson11/)
-    [![Final Badge][FIN]](./final/)
-  </div>
-</div>
 
 ## 💽 Repositories
 <!-- Repository Cards from https://github.com/stats-organization/github-stats-extended -->
